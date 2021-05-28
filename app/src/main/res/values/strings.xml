@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Seismo-Meter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="No_Earthquakes">No Earthquakes To Display</string>
+    <string name="No_Connection">Not Connected To Internet</string>
 </resources>
